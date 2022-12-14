@@ -14,5 +14,5 @@
 
 ## 삼성전자 주가예측
 * https://cnvrg.io/pytorch-lstm/?gclid=Cj0KCQiA6t6ABhDMARIsAONIYyxsIXn6G6EcMLhGnPDxnsKiv3zLU49TRMxsyTPXZmOV3E-Hh4xeI2EaAugLEALw_wcB 출처 정보를 활용하여 삼성전자 주가예측 작성중
-* 자료출처 : [https://finance.yahoo.com/](야후파이넨)
+* 자료출처 : (https://finance.yahoo.com/([야후 파이넨셜]
 * 기말 프로젝트 과제로 작성중
