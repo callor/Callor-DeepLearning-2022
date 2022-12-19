@@ -14,11 +14,15 @@
 - RNN, LSTN 등의 정보를 수집 학습하면서 진행한 프로젝트,
 - 주가 예츨00 프로젝트 작성중 문제가 발생하여 다시 작성중인 프로젝트
 
-## [삼성전자 주가예측](https://github.com/callor/Callor-DeepLearning-2022/blob/master/삼성전자주가예.ipynb)
+## [삼성전자 주가예측 V1](https://github.com/callor/Callor-DeepLearning-2022/blob/master/삼성전자주가예측_v1.ipynb)
 
 - [How to apply LSTM using PyTorch](https://cnvrg.io/pytorch-lstm/?gclid=Cj0KCQiA6t6ABhDMARIsAONIYyxsIXn6G6EcMLhGnPDxnsKiv3zLU49TRMxsyTPXZmOV3E-Hh4xeI2EaAugLEALw_wcB) 출처 정보를 활용하여 삼성전자 주가예측 작성중
 - 자료출처 : [야후파이넨셜](https://finance.yahoo.com/), [삼성전자 주가 자료](https://finance.yahoo.com/quote/005930.KS/history?period1=1513296000&period2=1671062400&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true)
 - 기말 프로젝트 과제로 작성중
+
+## [삼성전자 주가예측 V2](https://github.com/callor/Callor-DeepLearning-2022/blob/master/삼성전자주가예측_v2.ipynb)
+
+- pandas 와 keras 를 이용한 LSTM 알고리즘 적용 삼성전자 주가예측
 
 ## 삼성전자 주가예측에서 사용된 데이터
 
